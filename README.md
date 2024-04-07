@@ -15,3 +15,16 @@ The TCS NQT typically consists of several rounds, which may vary based on the sp
     HR Interview: After successfully clearing the technical interview, candidates may face an HR interview. This round focuses on evaluating candidates' soft skills, communication abilities, behavioral aspects, and cultural fit with the organization.
 
 These are the common rounds, but depending on the specific job role and requirements, TCS might include additional rounds such as managerial interviews or assessments. It's essential for candidates to prepare thoroughly for each stage to increase their chances of success in the TCS NQT process
+
+
+The gross salary of TCS NQT For Freshers including all benefits is 
+
+    TCS Ninja Salary
+        INR 3,36,877 + 60,000 for BTech Students
+        INR 3,53,578 + 60,000 for MTech, Integrated and Msc students
+    Digital Offer
+        INR 7,00,022 + 60,000 for BTech Students
+        INR 7,30,034 + 60,000 for MTech, Integrated, and M.Sc students
+    Prime Offer
+        INR 9,00,000 + 60,000 for B.Tech students
+        INR 11,50,000 + 60,000 for M.Tech, integrated, and M.Sc students
