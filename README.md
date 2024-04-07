@@ -28,3 +28,26 @@ The gross salary of TCS NQT For Freshers including all benefits is
     Prime Offer
         INR 9,00,000 + 60,000 for B.Tech students
         INR 11,50,000 + 60,000 for M.Tech, integrated, and M.Sc students
+
+Tata Consultancy Services (TCS) typically looks for candidates who possess a combination of technical skills, domain expertise, and soft skills. While specific skill requirements may vary depending on the job role and project requirements, here are some common skill areas that TCS often seeks in candidates:
+
+    Technical Skills: TCS values candidates who are proficient in various technical areas, including but not limited to:
+        Programming Languages: Proficiency in languages like Java, Python, C/C++, .NET, etc.
+        Database Management: Knowledge of SQL, database design, and management systems like Oracle, MySQL, SQL Server, etc.
+        Web Development: Experience with front-end technologies (HTML, CSS, JavaScript) and back-end frameworks (Node.js, Django, Spring Boot, etc.).
+        Cloud Computing: Familiarity with cloud platforms like AWS, Azure, or Google Cloud, and services like EC2, S3, Azure Functions, etc.
+        Data Science and Analytics: Skills in data analysis, machine learning, data visualization tools (such as Python libraries like Pandas, NumPy, Matplotlib, or frameworks like TensorFlow, PyTorch), and statistical modeling.
+        Cybersecurity: Understanding of cybersecurity principles, protocols, and tools for threat detection, prevention, and mitigation.
+
+    Domain Knowledge: Depending on the industry or sector TCS operates in, candidates may be required to have domain-specific knowledge and expertise. This could include areas such as banking and financial services, healthcare, retail, manufacturing, telecommunications, etc.
+
+    Soft Skills: TCS also values candidates who possess strong soft skills, including:
+        Communication: Excellent verbal and written communication skills to effectively convey ideas and interact with team members and clients.
+        Problem-solving: Ability to analyze problems, think critically, and develop innovative solutions.
+        Teamwork: Capacity to collaborate effectively with diverse teams and contribute positively to collective goals.
+        Adaptability: Willingness to learn new technologies, adapt to changing project requirements, and thrive in dynamic environments.
+        Leadership: Demonstrated leadership qualities, including the ability to take initiative, mentor junior team members, and lead projects or initiatives.
+
+    Certifications: Possession of relevant certifications in areas such as programming languages, cloud computing, project management (e.g., PMP, PRINCE2), cybersecurity (e.g., CISSP, CEH), or domain-specific certifications can enhance a candidate's profile.
+
+Overall, TCS seeks candidates who not only have strong technical skills but also demonstrate a commitment to continuous learning, collaboration, and delivering value to clients. It's essential for candidates to tailor their skillset and experiences to align with the specific requirements of the job role and project they're applying for within TCS.
