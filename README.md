@@ -1,1 +1,2 @@
 # TCS-NQT
+The TCS National Qualifier Test (NQT) is an exam conducted by Tata Consultancy Services (TCS) to identify talented individuals for various positions within the company. It's an assessment designed to evaluate candidates' skills in areas like quantitative aptitude, verbal ability, programming logic, and coding. TCS NQT is a gateway for both fresher and experienced professionals to join TCS. Candidates who perform well in the NQT may be eligible for further rounds of interviews and consideration for job opportunities within TCS.
