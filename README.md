@@ -51,3 +51,28 @@ Tata Consultancy Services (TCS) typically looks for candidates who possess a com
     Certifications: Possession of relevant certifications in areas such as programming languages, cloud computing, project management (e.g., PMP, PRINCE2), cybersecurity (e.g., CISSP, CEH), or domain-specific certifications can enhance a candidate's profile.
 
 Overall, TCS seeks candidates who not only have strong technical skills but also demonstrate a commitment to continuous learning, collaboration, and delivering value to clients. It's essential for candidates to tailor their skillset and experiences to align with the specific requirements of the job role and project they're applying for within TCS.
+
+    Technical Knowledge:
+        Machine Learning and Data Science: Be prepared to discuss algorithms, statistical techniques, data preprocessing, feature engineering, model evaluation, and optimization. Showcase your experience with popular machine learning libraries like TensorFlow, scikit-learn, PyTorch, etc.
+        Cloud Computing: Demonstrate your proficiency in cloud platforms like AWS, Azure, or Google Cloud. Highlight your experience with services such as EC2, S3, Lambda, Google Cloud Functions, etc. Discuss your understanding of cloud architecture, deployment strategies, scalability, and security.
+
+    Projects and Experience:
+        Talk about relevant projects you've worked on, emphasizing your role, the problem you addressed, the techniques you used, and the results achieved. Be ready to discuss challenges faced and how you overcame them.
+        If possible, showcase any real-world applications or products you've developed using machine learning, data science, and cloud technologies. Provide concrete examples of how your work added value to the business or organization.
+
+    Problem-solving Skills:
+        Expect to solve technical problems or case studies related to machine learning, data analysis, or cloud infrastructure. Practice solving coding challenges, algorithmic problems, or data manipulation tasks.
+        Clearly explain your approach, discuss trade-offs, and consider scalability, efficiency, and other relevant factors in your solutions.
+
+    Communication Skills:
+        Articulate your thoughts clearly and concisely. Explain technical concepts in a way that a non-technical audience can understand.
+        Be prepared to discuss your thought process behind technical decisions, your rationale for choosing specific algorithms or cloud services, and any lessons learned from past projects.
+
+    Industry Knowledge:
+        Stay updated on industry trends, emerging technologies, and best practices in machine learning, data science, and cloud computing.
+        Discuss how you stay informed about advancements in your field, whether through reading research papers, attending conferences, or participating in online communities.
+
+    Behavioral Questions:
+        Be ready to answer behavioral questions that assess your teamwork, problem-solving, adaptability, and communication skills. Use the STAR method (Situation, Task, Action, Result) to structure your responses.
+
+Overall, demonstrate a passion for technology, a willingness to learn, and an ability to apply your skills to solve real-world problems.
